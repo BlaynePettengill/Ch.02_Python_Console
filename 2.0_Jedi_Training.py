@@ -4,7 +4,7 @@
 UPLOAD YOUR CH 2 PDF LOG! (6pts)
 
 1.) How do you enter a single line comment in a program? Give an example. (1pt)
-
+you use the #
 
 2.) If a=2 and b=5, predict all of the following below and record your predictions. (9pts)
 Then in the Python Console window, enter a=2 and b=5 and then all of the following and record the actual output.
@@ -15,7 +15,7 @@ b/a                 =
 b//a                =
 b**a                =
 b%a                 =
-a+B                 =
+a+B                 = 7
 type(42)            =
 type(42.0)          =
 type("C3PO")        =
